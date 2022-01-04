@@ -39,17 +39,17 @@ DESARROLLO DE TALENTO ESPECIALIZADO, MÓDULO VERIFICACIÓN PRE-SILICIO, INAOE
 
 The next activities were elaborated in a team collaboration.
 -	Generation of a Test Bench for combinational design in Verilog, was made a version using C++ and another with Python. In both versions to obtain the information we use regular expressions and dictionaries or maps in C++ and Python respectively to manipulate the information. 
-  -	I was in charge of the stimulus generation to test the combinational design.
+    -	I was in charge of the stimulus generation to test the combinational design.
 -	Generation of a Verilog design of a Finite State Machine (Moore or Mealy) and a self-checking test bench.
-  -	I was in charge of generate the Verilog design (Moore or Mealy) using Python.
+    -	I was in charge of generate the Verilog design (Moore or Mealy) using Python.
 -	Elaboration of the modules of MIPS processor (Single Cycle and Multi Cycle) using Verilog.
-  -	I was in charge of the elaboration of the register file, data memory, alu, multiplexer and the Datapath of the MIPS.
+    -	I was in charge of the elaboration of the register file, data memory, alu, multiplexer and the Datapath of the MIPS.
 -	Elaboration of self-checking Test Benches to test the modules used in MIPS processor.
-  -	I was in charge of the elaboration of test benches for the register file, data memory, alu and the multiplexer.
+    -	I was in charge of the elaboration of test benches for the register file, data memory, alu and the multiplexer.
 -	Verification of Single cycle MIPS processor using System Verilog.
-  -	I was in charge of the random generation of instructions for the test and contributed with the scoreboard to define the required verification to check the functionality of the design.
+    -	I was in charge of the random generation of instructions for the test and contributed with the scoreboard to define the required verification to check the functionality of the design.
 -	Verification of Multi cycle MIPS processor using UVM.
-  - I was in charge of the random generation of instructions for the test and contributed with the scoreboard to define the required verification to check the functionality of the design.
+    - I was in charge of the random generation of instructions for the test and contributed with the scoreboard to define the required verification to check the functionality of the design.
 
 
 
